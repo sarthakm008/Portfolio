@@ -20,21 +20,6 @@ This is a lightweight static website built with plain HTML and CSS. It does not 
 - Contact section with Gmail compose call-to-action
 - Reduced-motion media query for accessibility
 
-## Customization
-
-Update the placeholder project names and descriptions in `index.html`:
-
-- `Project Aurora`
-- `Project Nova`
-
-Replace the contact email in the Gmail compose link with your real email address:
-
-```html
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=you@example.com" class="cta-button" target="_blank" rel="noopener noreferrer">SAY HI</a>
-```
-
-Most of the theme can be adjusted from the CSS variables at the top of `styles.css`.
-
 ## Notes
 
 The site currently uses external Google Fonts, so an internet connection is needed for the intended typography to load.
